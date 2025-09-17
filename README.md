@@ -6,7 +6,7 @@ Lieve Odette Rozemarijn Visser
 
 *Picture of me! (On the right)*
 
-![SAM_1429](https://github.com/user-attachments/assets/b8fe4d28-863c-4fce-8526-47b7cdc7c522)
+<img width="250" height="274" alt="Scherm­afbeelding 2025-09-17 om 14 21 13" src="https://github.com/user-attachments/assets/fb7029e2-6d95-4a72-9f00-408d1254c767" />
 
 
 ### Groningen
