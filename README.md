@@ -1,10 +1,13 @@
 ## Hi there 👋
 
 **My name:**
+
 Lieve Odette Rozemarijn Visser
 
 *Picture of me! (On the right)*
-<img src="https://github.com/user-attachments/assets/ffda290c-97b9-4697-887e-a5b8e1aca002" alt="Picture of me" width="300">
+
+![SAM_1429](https://github.com/user-attachments/assets/b8fe4d28-863c-4fce-8526-47b7cdc7c522)
+
 
 ### Groningen
 
