@@ -4,7 +4,7 @@
 
 Lieve Odette Rozemarijn Visser
 
-*Picture of me! (On the right)*
+*Picture of me! (On the left)*
 
 <img width="250" height="274" alt="Scherm­afbeelding 2025-09-17 om 14 21 13" src="https://github.com/user-attachments/assets/fb7029e2-6d95-4a72-9f00-408d1254c767" />
 
